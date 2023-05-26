@@ -1,0 +1,13 @@
+body{
+    background-color: cadetblue;
+}
+.text-block{
+    width: 1200px ;
+    color: white;
+}
+.box{
+    background-color: green;
+}
+.text-block-item{
+    float: right;
+}

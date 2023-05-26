@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+.text-block-item{
+    width: 12%;
+    height: 100px;
+    border: 1px solid ;
+    text-align: center;
+    margin: 20px;
+    float: left;
+    background-color: yellowgreen;
+    padding: 10px 15px;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.text-block-item2{
+    width: 12%;
+    height: 100px;
+    border: 1px solid ;
+    text-align: center;
+    margin: 20px;
+    float: left;
+    background-color: yellowgreen;
+    padding: 10px 15px;
+    box-sizing: border-box;
+}

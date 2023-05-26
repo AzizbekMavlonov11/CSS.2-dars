@@ -1,0 +1,36 @@
+body{
+border-color: aqua;
+}
+.text-block{
+    width: 1200px;
+    margin: 200px auto;
+
+}
+.text-block-item{
+    width: 30%;
+    border: 1px solid;
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left;
+    margin: 0px 20px;
+    height: 400px;
+
+}
+.box{
+    border: 1px solid deepskyblue;
+    color: deepskyblue;
+}
+.vid{
+    color: deepskyblue;
+}
+.box{
+    border: 1px solid deepskyblue;
+    color: deepskyblue;
+}
+.vid{
+    color: deepskyblue;
+}
+.vid{
+    color: deepskyblue;
+}
